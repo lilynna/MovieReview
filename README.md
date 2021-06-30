@@ -9,9 +9,9 @@
 ### Installing
 1.ดาวน์โหลด [Nodejs](https://nodejs.org/en/download/)<br/>
 2.ทำการติดตั้ง Nodejs<br/>
-3.ดาวน์โหลด [MongoDB] (https://www.mongodb.com/try/download/community)<br/>
+3.ดาวน์โหลด [MongoDB](https://www.mongodb.com/try/download/community)<br/>
 4.ทำการติดตั้งโปรแกรม MongoDB<br/>
-5.ดาวน์โหลด  [Visual Studio Code] (https://code.visualstudio.com/download)<br/>
+5.ดาวน์โหลด  [Visual Studio Code](https://code.visualstudio.com/download)<br/>
 6.ทำการติดตั้งโปรแกรม Visual Studio Code<br/>
 7.สร้าง Folder สำหรับ clone โปรเจ็คนี้
 
