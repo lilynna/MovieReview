@@ -16,9 +16,11 @@
 7.สร้าง Folder สำหรับ clone โปรเจ็คนี้
 
 ### Running
-1.เปิดโปรแกรม Visual Studio Code กดคลิกที่ File บนแถบเมนูด้านบนเลือกเมนู Open Folder... เลือก  Folder ที่สร้างขึ้นสำหรับ clone โปรเจ็ค<br/>
-2.กดคลิกที่ Terminal บนแถบเมนูด้านบนเลือกเมนู New Terminal จากนั้นพิมพ์ git clone https://github.com/lilynna/MovieReview กด Enter รอจนดาว์นโหลดเสร็จ<br/>
-3.จากนั้นพิมพ์ cd MovieReview/moviereview กด Enter แล้วพิมพ์ npm install กด Enter รอจนกว่าจะทำการ install เสร็จ<br/>
-4.กดคลิกที่เครื่องหมาย + บนแถบเมนูของ Terminal เพื่อทำการ New Terminal ใหม่ขึ้นมาอีกอัน จากนั้นพิมพ์ cd MovieReview/server กด Enter แล้วพิมพ์ npm install กด Enter รอจนกว่าจำทำการ install เสร็จ<br/>
-5.เมื่อ install เสร็จพิมพ์ npm start กด Enter รอจนกว่าจะขึ้น Server started at port 4000 ใน Terminal<br/>
-6.กดเลือก Terminal อีกอันพิมพ์ npm start กด Enter เมื่อ run เสร็จจะเด้งไปที่หน้าเว็บเบราว์เซอร์  http://localhost:3000/ (หน้าหลักของเว็บแอปพลิเคชัน MovieReview)
+1.เปิดโปรแกรม MongoDB Compass จากนั้นคลิกที่ปุ่ม Connect<br/>
+2.คลิกที่ปุ่ม Create Database จากนั้นพิมพ์ MovieRevie ที่ช่อง Database Name และพิมพ์ Movie ที่ช่อง Collection Name<br/>
+3.เปิดโปรแกรม Visual Studio Code กดคลิกที่ File บนแถบเมนูด้านบนเลือกเมนู Open Folder... เลือก  Folder ที่สร้างขึ้นสำหรับ clone โปรเจ็ค<br/>
+4.กดคลิกที่ Terminal บนแถบเมนูด้านบนเลือกเมนู New Terminal จากนั้นพิมพ์ git clone https://github.com/lilynna/MovieReview กด Enter รอจนดาว์นโหลดเสร็จ<br/>
+5.จากนั้นพิมพ์ cd MovieReview/moviereview กด Enter แล้วพิมพ์ npm install กด Enter รอจนกว่าจะทำการ install เสร็จ<br/>
+6.กดคลิกที่เครื่องหมาย + บนแถบเมนูของ Terminal เพื่อทำการ New Terminal ใหม่ขึ้นมาอีกอัน จากนั้นพิมพ์ cd MovieReview/server กด Enter แล้วพิมพ์ npm install กด Enter รอจนกว่าจำทำการ install เสร็จ<br/>
+7.เมื่อ install เสร็จพิมพ์ npm start กด Enter รอจนกว่าจะขึ้น Server started at port 4000 ใน Terminal<br/>
+8.กดเลือก Terminal อีกอันพิมพ์ npm start กด Enter เมื่อ run เสร็จจะเด้งไปที่หน้าเว็บเบราว์เซอร์  http://localhost:3000/ (หน้าหลักของเว็บแอปพลิเคชัน MovieReview)
